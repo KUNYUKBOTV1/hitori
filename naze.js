@@ -3126,7 +3126,7 @@ module.exports = naze = async (naze, m, chatUpdate, store, groupCache) => {
 				exec(budy.slice(2), (err, stdout) => {
 					if (err) return m.reply(`${err}`)
 					if (stdout) return m.reply(stdout)
-				})
+				})wa.me/6283832553703
 			}
 		}
 	} catch (err) {
